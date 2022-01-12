@@ -187,7 +187,7 @@ const reviews = [
     img:
         "https://upload.wikimedia.org/wikipedia/commons/thu…_vignette_Al-Masjid_AL-Nabawi_Door800x600x300.jpg",
     text:
-        "Remember your own faults before you mention the faults of others. ",
+        "The Strong men is not the good Wrestler, the Strong Men is only the one who controls himself when he is angry. ",
   },
   {
     id: 22,
